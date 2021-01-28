@@ -1,0 +1,32 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(216, 216, 216);
+    margin: 0%;
+    padding: 0%;
+}
+
+divv{
+    border:2px solid red;
+}
+
+.photo{
+    width: 70%;
+    min-width: 70%;
+}
+
+.navbar-container{
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(216, 216, 216);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.btn-create{
+    background-color: rgb(92, 174, 92);
+    color: white;
+    border-color: rgb(92, 174, 92);
+}
+.navtap-container{
+    background-color: rgb(242, 242, 242);
+    
+}
